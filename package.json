@@ -1,0 +1,32 @@
+{
+  "name": "@mdbootstrap/bootstrap-slideshow",
+  "version": "1.0.3",
+  "description": "Responsive Slideshow built with Bootstrap 5. Examples of adding controls, slideshow buttons: square and rounded, dark variant, automatic slide and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-slideshow.git"
+  },
+  "keywords": [
+    "slideshow",
+    "adding controls",
+    "square buttons",
+    "rounded buttons",
+    "with text",
+    "dark variant",
+    "automatic slide",
+    "manual slide",
+    "without loop",
+    "product cards",
+    "full page"
+  ],
+  "author": "Igor Przybysz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-slideshow/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/slideshow/"
+}
